@@ -1,1 +1,1 @@
-console.log(Extra functionalities);
+console.log("Extra functionalities");

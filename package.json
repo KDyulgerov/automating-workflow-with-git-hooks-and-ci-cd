@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Automating Workflow with Git Hooks and CICD Integration",
   "main": "index.js",
+  "type": "commonjs",
   "scripts": {
     "test": "qunit",
     "format": "npx prettier . --write"
