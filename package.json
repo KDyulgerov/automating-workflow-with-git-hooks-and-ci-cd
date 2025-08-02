@@ -1,0 +1,16 @@
+{
+  "name": "automating-workflow-with-git-hooks-and-cicd-integration",
+  "version": "1.0.0",
+  "description": "Automating Workflow with Git Hooks and CICD Integration",
+  "main": "index.js",
+  "scripts": {
+    "test": "qunit",
+    "format": "npx prettier . --write"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "qunit": "^2.24.1"
+  }
+}
